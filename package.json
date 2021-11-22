@@ -1,0 +1,31 @@
+{
+  "name": "chekcBalanceWeb3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " node ./index.js",
+    "start:dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladyslav84/chekcBalanceWeb3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladyslav84/chekcBalanceWeb3/issues"
+  },
+  "homepage": "https://github.com/Vladyslav84/chekcBalanceWeb3#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.9",
+    "@types/react": "^17.0.36",
+    "@types/react-dom": "^17.0.11",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.5.2",
+    "web3": "^1.6.1"
+  }
+}
